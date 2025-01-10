@@ -1,0 +1,13 @@
+project: 
+  type: website
+  output-dir: docs
+website:
+  sidebar:
+    style: "docked"
+    contents:
+      - text: "Home"
+        href: https://drthirucsomasundaram.github.io/AFCoPWW/
+      - text: "Venue"
+        href: https://www.residenzalavernale.com/en/default.html
+      - text: "Contact"
+        href: mailto:thiru.somasundaram@deakin.edu.au
